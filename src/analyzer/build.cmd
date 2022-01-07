@@ -1,0 +1,2 @@
+call yarn build
+pause
